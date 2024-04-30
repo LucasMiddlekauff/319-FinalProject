@@ -1,0 +1,129 @@
+[
+
+    {
+    "id": 1,
+        "name" : "New York City",
+        "price": "2,281",
+        "description": "7/10",
+        "imageURL": "./images/New York City.JPG"
+    },
+    {
+        "id": 2,
+    "name": "Tokyo",
+        "price": "3,760",
+        "description": "8/10",
+        "imageURL": "./images/tokyo.jpg"
+    },
+    {
+    "id": 3,
+        "name": "London",
+        "price": "1,653",
+        "description": "6/10",
+        "imageURL": "./images/London.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bali",
+        "price": "1,022",
+        "description": "3/10",
+        "imageURL": "./images/Bali.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Thailand",
+        "price": "1,138",
+        "description": "9/10",
+        "imageURL": "./images/Thailand.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hawaii",
+        "price": "4,000",
+        "description": "4/10",
+        "imageURL": "./images/Hawaii.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Rocky Mountains",
+        "price": "508",
+        "description": "10/10",
+        "imageURL": "./images/rockyMountains.jpg"
+    },
+    {
+        "id": 8,
+        "name": "The Swiss Alps",
+        "price": "1,546",
+        "description": "10/10",
+        "imageURL": "./images/swissAlps.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mount Fuji",
+        "price": "1,846",
+        "description": "6/10",
+        "imageURL": "./images/mountFuji.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cape Cod",
+        "price": "1,282",
+        "description": "10/10",
+        "imageURL": "./images/capeCod.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Gulf Coast",
+        "price": "618",
+        "description": "8/10",
+        "imageURL": "./images/gulfCoast.jpg"
+    },
+    {
+        "id": 12,
+        "name": "New Zealand",
+        "price": "1,872",
+        "description": "6/10",
+        "imageURL": "./images/newZealand.jpg"
+    },
+    {
+        "id": 13,
+        "name": "The Ozarks",
+        "price": "672",
+        "description": "5/10",
+        "imageURL": "./images/ozarks.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Tuscany",
+        "price": "3,183",
+        "description": "7/10",
+        "imageURL": "./images/tuscany.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Yellowstone National Park",
+        "price": "900",
+        "description": "8/10",
+        "imageURL": "./images/yellowstone.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Rome",
+        "price": "1,455",
+        "description": "6/10",
+        "imageURL": "./images/rome.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Great Wall of China",
+        "price": "2,200",
+        "description": "3/10",
+        "imageURL": "./images/greatWall.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Machu Picchu",
+        "price": "1,100",
+        "description": "8/10",
+        "imageURL": "./images/machu.jpg"
+    }
+]
