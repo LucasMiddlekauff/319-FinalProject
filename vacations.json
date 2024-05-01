@@ -30,7 +30,7 @@
         "price": "1,022",
         "description": "3/10",
         "category": "askdfl",
-        "imageUrl": "./images/Bali.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/Bali.jpg?raw=true"
     },
     {
         "id": 5,
@@ -38,7 +38,7 @@
         "price": "1,138",
         "description": "9/10",
         "category": "qpewoiru",
-        "imageUrl": "./images/Thailand.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/Thailand.jpg?raw=true"
     },
     {
         "id": 6,
@@ -46,7 +46,7 @@
         "price": "4,000",
         "description": "4/10",
         "category": "iwoiwoieoi",
-        "imageUrl": "./images/Hawaii.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/Hawaii.jpg?raw=true"
     },
     {
         "id": 7,
@@ -54,7 +54,7 @@
         "price": "508",
         "description": "10/10",
         "category": "uweiouewiuoeiruoiuow",
-        "imageUrl": "./images/rockyMountains.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/rockyMountains.jpg?raw=true"
     },
     {
         "id": 8,
@@ -62,7 +62,7 @@
         "price": "1,546",
         "description": "10/10",
         "category": "asoifjdsiof",
-        "imageUrl": "./images/swissAlps.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/swissAlps.jpg?raw=true"
     },
     {
         "id": 9,
@@ -70,7 +70,7 @@
         "price": "1,846",
         "description": "6/10",
         "category": "ooooo",
-        "imageUrl": "./images/mountFuji.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/mountFuji.jpg?raw=true"
     },
     {
         "id": 10,
@@ -78,7 +78,7 @@
         "price": "1,282",
         "description": "10/10",
         "category": "wiieieieieieiei",
-        "imageUrl": "./images/capeCod.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/capeCod.jpg?raw=true"
     },
     {
         "id": 11,
@@ -86,7 +86,7 @@
         "price": "618",
         "description": "8/10",
         "category": "cvnmxcnmxcvbnm",
-        "imageUrl": "./images/gulfCoast.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/gulfCoast.jpg?raw=true"
     },
     {
         "id": 12,
@@ -102,7 +102,7 @@
         "price": "672",
         "description": "5/10",
         "category": "wiwiwiiwiwiwiwiwiwi",
-        "imageUrl": "./images/ozarks.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/newZealand.jpg?raw=true"
     },
     {
         "id": 14,
@@ -110,7 +110,7 @@
         "price": "3,183",
         "description": "7/10",
         "category": "erio",
-        "imageUrl": "./images/tuscany.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/tuscany.jpg?raw=true"
     },
     {
         "id": 15,
@@ -118,7 +118,7 @@
         "price": "900",
         "description": "8/10",
         "category": "einps",
-        "imageUrl": "./images/yellowstone.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/yellowstone.jpg?raw=true"
     },
     {
         "id": 16,
@@ -126,7 +126,7 @@
         "price": "1,455",
         "description": "6/10",
         "category": "doiod",
-        "imageUrl": "./images/rome.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/rome.jpg?raw=true"
     },
     {
         "id": 17,
@@ -134,7 +134,7 @@
         "price": "2,200",
         "description": "3/10",
         "category": "fosif",
-        "imageUrl": "./images/greatWall.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/greatWall.jpg?raw=true"
     },
     {
         "id": 18,
@@ -142,6 +142,6 @@
         "price": "1,100",
         "description": "8/10",
         "category": "qppqpqpqp",
-        "imageUrl": "./images/machu.jpg"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/machu.jpg?raw=true"
     }
 ]
