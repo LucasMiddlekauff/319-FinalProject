@@ -6,125 +6,142 @@
         "price": "2,281",
         "description": "7/10",
         "category": "me",
-        "imageURL": "./images/New York City.JPG"
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/New%20York%20City.jpg?raw=true"
     },
     {
         "id": 2,
     "name": "Tokyo",
         "price": "3,760",
         "description": "8/10",
-        "imageURL": "./images/tokyo.jpg"
+        "category": "no",
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/tokyo.jpg?raw=true"
     },
     {
     "id": 3,
         "name": "London",
         "price": "1,653",
         "description": "6/10",
-        "imageURL": "./images/London.jpg"
+        "category": "wow",
+        "imageUrl": "https://github.com/LucasMiddlekauff/319-FinalProject/blob/main/img/London.jpg?raw=true"
     },
     {
         "id": 4,
         "name": "Bali",
         "price": "1,022",
         "description": "3/10",
-        "imageURL": "./images/Bali.jpg"
+        "category": "askdfl",
+        "imageUrl": "./images/Bali.jpg"
     },
     {
         "id": 5,
         "name": "Thailand",
         "price": "1,138",
         "description": "9/10",
-        "imageURL": "./images/Thailand.jpg"
+        "category": "qpewoiru",
+        "imageUrl": "./images/Thailand.jpg"
     },
     {
         "id": 6,
         "name": "Hawaii",
         "price": "4,000",
         "description": "4/10",
-        "imageURL": "./images/Hawaii.jpg"
+        "category": "iwoiwoieoi",
+        "imageUrl": "./images/Hawaii.jpg"
     },
     {
         "id": 7,
         "name": "Rocky Mountains",
         "price": "508",
         "description": "10/10",
-        "imageURL": "./images/rockyMountains.jpg"
+        "category": "uweiouewiuoeiruoiuow",
+        "imageUrl": "./images/rockyMountains.jpg"
     },
     {
         "id": 8,
         "name": "The Swiss Alps",
         "price": "1,546",
         "description": "10/10",
-        "imageURL": "./images/swissAlps.jpg"
+        "category": "asoifjdsiof",
+        "imageUrl": "./images/swissAlps.jpg"
     },
     {
         "id": 9,
         "name": "Mount Fuji",
         "price": "1,846",
         "description": "6/10",
-        "imageURL": "./images/mountFuji.jpg"
+        "category": "ooooo",
+        "imageUrl": "./images/mountFuji.jpg"
     },
     {
         "id": 10,
         "name": "Cape Cod",
         "price": "1,282",
         "description": "10/10",
-        "imageURL": "./images/capeCod.jpg"
+        "category": "wiieieieieieiei",
+        "imageUrl": "./images/capeCod.jpg"
     },
     {
         "id": 11,
         "name": "Gulf Coast",
         "price": "618",
         "description": "8/10",
-        "imageURL": "./images/gulfCoast.jpg"
+        "category": "cvnmxcnmxcvbnm",
+        "imageUrl": "./images/gulfCoast.jpg"
     },
     {
         "id": 12,
         "name": "New Zealand",
         "price": "1,872",
         "description": "6/10",
-        "imageURL": "./images/newZealand.jpg"
+        "category": "asiooi",
+        "imageUrl": "./images/newZealand.jpg"
     },
     {
         "id": 13,
         "name": "The Ozarks",
         "price": "672",
         "description": "5/10",
-        "imageURL": "./images/ozarks.jpg"
+        "category": "wiwiwiiwiwiwiwiwiwi",
+        "imageUrl": "./images/ozarks.jpg"
     },
     {
         "id": 14,
         "name": "Tuscany",
         "price": "3,183",
         "description": "7/10",
-        "imageURL": "./images/tuscany.jpg"
+        "category": "erio",
+        "imageUrl": "./images/tuscany.jpg"
     },
     {
         "id": 15,
         "name": "Yellowstone National Park",
         "price": "900",
         "description": "8/10",
-        "imageURL": "./images/yellowstone.jpg"
+        "category": "einps",
+        "imageUrl": "./images/yellowstone.jpg"
     },
     {
         "id": 16,
         "name": "Rome",
         "price": "1,455",
         "description": "6/10",
-        "imageURL": "./images/rome.jpg"
+        "category": "doiod",
+        "imageUrl": "./images/rome.jpg"
     },
     {
         "id": 17,
         "name": "Great Wall of China",
         "price": "2,200",
         "description": "3/10",
-        "imageURL": "./images/greatWall.jpg"
+        "category": "fosif",
+        "imageUrl": "./images/greatWall.jpg"
     },
     {
         "id": 18,
         "name": "Machu Picchu",
         "price": "1,100",
         "description": "8/10",
-        "imageURL": "./images/machu.jpg"
+        "category": "qppqpqpqp",
+        "imageUrl": "./images/machu.jpg"
     }
 ]
