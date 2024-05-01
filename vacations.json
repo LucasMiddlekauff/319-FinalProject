@@ -5,6 +5,7 @@
         "name" : "New York City",
         "price": "2,281",
         "description": "7/10",
+        "category": "me",
         "imageURL": "./images/New York City.JPG"
     },
     {
